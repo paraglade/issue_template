@@ -3,6 +3,7 @@ contact_links:
   - name: DO Access 
     url: https://sd.suse.com/servicedesk/customer/portal/1
     about: PDigitial Ocean cloud platform
-  - name: GitHub Security Bug Bounty
-    url: https://bounty.github.com/
+  - name: for lucas
+    url: https://github.com/rancherlabs/eio/issues/new?assignees=&labels=Access+Request&template=access-request-template.md&title=%5BACCESS+REQUEST%5D+Review+the+README+to+see+if+you+need+to+open+a+JIRA+service+desk+ticket
+
     about: Please report security vulnerabilities here.
