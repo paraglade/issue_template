@@ -14,10 +14,11 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 ## user information
 <!-- **REQUIRED**: all field values are required in the table below -->
-| user               | value          |
-| :----------------- | :------------- |  
-| name (First Last)  |                | 
-| suse email         |                | 
-| manager            |                | 
-| team               |                | 
+| user                      | value            |
+| :----------------------- | :--------------- |
+| name (First Last)  |                     |
+| suse email            |                     |
+| manager               |                     |
+| team                     |                     |
+
 
