@@ -22,7 +22,7 @@ the information provided below is for the user needing access
 | suse email                |                  |
 | manager                   |                  |
 | team                      |                  |
-| gmail email (for)
+
 
 
 ## access request platforms
@@ -30,8 +30,8 @@ the information provided below is for the user needing access
 place an 'x' in the access required column and add the `required value` from the `additional required informaion` column
 -->
 | platform | access required | additional required informaion | required value |
-| :------- | :-------------: | :----------------------------- | -------------- |
-| AWS      |                 |  aws account ->                |                | 
-| github   |                 | github user ->                 |                |
+| :------- | :-------------: | -----------------------------: | -------------- |
+|AWS       |                 | aws account ->                 |                | 
+|github    |                 | github user ->                 |                |
 |GCP       |                 | gmail address ->               |                |
 
