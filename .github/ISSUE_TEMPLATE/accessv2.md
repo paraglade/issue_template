@@ -13,12 +13,23 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 -->
 
 ## user information
-<!-- **REQUIRED**: all field values are required in the table below -->
+<!-- **REQUIRED**: all field values are required in the table below unless noted
+the information provided below is for the user needing access
+ -->
 | user                      | value            |
-| :----------------------- | :--------------- |
-| name (First Last)  |                     |
-| suse email            |                     |
-| manager               |                     |
-| team                     |                     |
+| :------------------------ | :--------------- |
+| name (First Last)         |                  |
+| suse email                |                  |
+| manager                   |                  |
+| team                      |                  |
+| gmail email (for)
 
+
+## access request platforms
+
+| platform | access required | 
+| :------- | --------- |
+| AWS | |
+| github | |
+|GCP | |
 
