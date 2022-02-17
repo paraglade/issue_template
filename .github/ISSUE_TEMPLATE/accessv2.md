@@ -27,9 +27,9 @@ the information provided below is for the user needing access
 
 ## access request platforms
 <!-- 
-place an 'x' in the access required column and add the `required value` from the `additional required informaion` column
+place an 'x' in the access required column and add the `required value` from the `additional required information` column
 -->
-| platform | access required | additional required informaion | required value |
+| platform | access required | additional required information | required value |
 | :------- | :-------------: | -----------------------------: | -------------- |
 |AWS       |                 | aws account ->                 |                | 
 |github    |                 | github user ->                 |                |
